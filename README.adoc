@@ -1,0 +1,10 @@
+= Recipes
+
+This repository contains food recipes. +
+The recipes are free to use and everybody can try to cook them.
+
+
+== How to use
+
+Each recipe has its own directory with an own README. +
+The recipe is shown below the directory content.
