@@ -5,6 +5,7 @@ This recipe is divided into multiple parts. Each part has its own head line.
 == Dough
 
 Pizza dough is one of the simplest dough you can have. It contains 
+
 * 200 ml water
 * 303 g flour (Type 550 wheat or Type 630 spelt)
 * 10 g olive oil
