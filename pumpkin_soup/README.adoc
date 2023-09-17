@@ -16,6 +16,7 @@ This recipe makes a soup for 4 - 6 dishes.
 ** green garden beans
 ** celery root
 ** leek
+* salt and pepper to taste
 
 == Preparing the Pumpkin
 
