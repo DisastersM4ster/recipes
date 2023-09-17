@@ -11,11 +11,11 @@ This recipe makes a soup for 4 - 6 dishes.
 * 1 can coconut milk (ca. 400ml)
 * 1 or 2 red Chili, finely chopped (optional, to taste)
 * ca 500g mixed vegetables for soups consisting of
-  * carrots
-  * green peas
-  * green garden beans
-  * celery root
-  * leek
+** carrots
+** green peas
+** green garden beans
+** celery root
+** leek
 
 == Preparing the Pumpkin
 
