@@ -7,16 +7,17 @@ This recipe describes howto make a Banana Bread.
 * Baking form for bread, 25 cm long
 * baking sheet or butter and breadcrumbs
 
-* 375g ripe Bananas (weighted WITH peel)
+* 375g ripe Bananas (weighted WITH peel) (ca. 3 Bananas)
 * 225g sugar
 * 1 package Vanilla sugar (8g)
 * 1/4 Teaspoon Salt (ca. 1g, optional)
 * 2 eggs (optional)
 * 100g Sour Dough (optional)
 * 250g Flour (all purpose, whole grain, Type 550, all is fine)
-* 1/2 package baking powder (ca. 7g) (double it if you ommit the eggs)
+* 1 package baking soda powder (ca. 15g) (double it if you ommit the eggs)
 * 100g Oil (Olive, rapeseed, sunflower, all is fine)
 * 70g Milk (or plant based milk)
+* 1 Tablespoon Psyllium husks (very optional)
 
 == Making the Dough
 
@@ -24,19 +25,22 @@ Heat the oven to 175°C. Prepare your form with the baking sheet or with
 butter and breadcrumbs.
 
 Peel the bananas and mash them with a mixer or a fork in a big bowl. Mix the 
-Vanilla sugar with sugar and mix both into the banana mash. +
+Vanilla sugar with sugar and put both into the banana mash. +
 Stir or mix until the sugar disappered in the banana mash. The sugar must be 
 completely solved in the mash. You can test with your mouth. If you do not 
 feel the sugar crystals on your tongue it is good. +
+Add sour dough - if you use it - and mix in in the sugar banana mash. +
 Add eggs and salt if you use it and mix it well. +
-Add sour dough - if you use it -, oil and milk. Mix it well.
 
-Mix baking powder with flour. Than mix the flour slowly under the banana and 
-sugar mash. Add only so many flour as it can be disolved. +
+In an extra bowl mix baking powder with flour. Than mix the flour slowly 
+under the banana and sugar mash. Add only as many flour as it can be disolved. +
 Do NOT put all flour at once - it will make lumps. Let it rinse like making 
 semolina or polenta. +
 Stir all well with your mixer or kitchen aid until you have a smooth and 
-semifluid dough.
+semifluid dough. +
+Now slowly mix oil and milk in the dough.
+
+If you want to add some fibre, you can add 1 tablespoon of Psyllium husks.
 
 
 == Baking and Cooling
@@ -46,5 +50,8 @@ Bake it for 60 minutes or until no dough stay on a wooden stick.
 
 Take the Banana Bread out of the oven and wait 10 - 20 minutes. +
 Put it out from the form and place it on a cooling rack for cakes and let it 
-cool down (maybe 20 - 40 minutes).
+cool down (maybe 20 - 40 minutes). +
+Your bread will break into pieces if you take it too early out of the form.
 
+You should try touse more baking soda if your bread stays soggy. => Don't be 
+sparing with the baking soda.
