@@ -22,11 +22,7 @@ All meat contains fat - strictly avoided from day 3.
 
 == The 3
 |===
-
-| 
-| Day 1 
-| Day 2 
-| Day 3 
+| | Day 1 | Day 2 | Day 3 
 
 | after wakeup 
 | 1/2 l Lemon Water 
