@@ -21,6 +21,7 @@ All meat contains fat - strictly avoided from day 3.
 
 
 == The 3
+
 |===
 | | Day 1 | Day 2 | Day 3 
 
@@ -162,12 +163,13 @@ Var. B:
 * 1/2 Cup Dragon Fruit or 2 TS Powder
 1 Sellery Stick
 
-Cut all ingedrients in Squres or Slices and put it in a Mixer or Food Processor. Process until smooth.
+Cut all ingredients in Squares or Slices and put it in a Mixer or Food Processor. Process until smooth. +
 Add Water if it is too thick until it has the right consistency.
 
 
-If you cannot get https://en.wikipedia.org/wiki/Pitaya[Dragon Fruit] (also Pitahaya or Pitaya) you can replace with red berries like Cranberry, Currant (black or red), Blackberry, Raspberry, Cherries and so on.
-You also can use frzen berries.
+If you cannot get https://en.wikipedia.org/wiki/Pitaya[Dragon Fruit] (also Pitahaya or Pitaya) you can replace with red berries like Cranberry, Currant (black or red), Blackberry, Raspberry, Cherries and so on. +
+You also can use frozen berries.
+
 
 == Healthy Salad
 
