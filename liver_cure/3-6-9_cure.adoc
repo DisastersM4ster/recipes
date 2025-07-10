@@ -151,7 +151,7 @@ Squeeze the juice from the Lemon. Mix the Juice with water.
 Var. A:
 
 * 1 Banana
-* 1 Cup Dragon Fruit or 2 Table Spoon Powder
+* 1 Cup Dragon Fruit or 2 Table Spoon Dragon Fruit Powder
 * 1 Cup Blueberries
 * Water as needed
 
@@ -166,7 +166,7 @@ Cut all ingedrients in Squres or Slices and put it in a Mixer or Food Processor.
 Add Water if it is too thick until it has the right consistency.
 
 
-If you cannot get Dragon Fruit (also Pitahaya or Pitaya) you can replace with red berries like Cranberry, Currant (black or red), Blackberry, Raspberry, Cherries and so on.
+If you cannot get https://en.wikipedia.org/wiki/Pitaya[Dragon Fruit] (also Pitahaya or Pitaya) you can replace with red berries like Cranberry, Currant (black or red), Blackberry, Raspberry, Cherries and so on.
 You also can use frzen berries.
 
 == Healthy Salad
