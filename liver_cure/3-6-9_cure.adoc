@@ -21,14 +21,45 @@ All meat contains fat - strictly avoided from day 3.
 
 
 == The 3
+|===
 
-| | Day 1 | Day 2 | Day 3 |
-| after wakeup | 1/2 l Lemon Water | 1/2 l Lemon Water | 1/2 l Lemon Water |
-| Morning | eat what you like | eat what you like + 1 Apple | eat what you want + 2 Apple |
-| Lunch | eat what you like | eat what you like | eat what you like |
-| Afternoon | 2 Apple + 1 - 4 Dates | 2 Apple + 1 - 4 Dates | 2 Apple + 1 - 4 Dates |
-| Diner | eat what you like | eat what you like | eat what you like |
-| Evening | Apple (if you want), 1/2 l Lemon Water, Hibiscus Tea or Melisse Tea | Apple (if you want), 1/2 l Lemon Water, Hibiscus Tea or Melissa Tea | Apple (if you want), 1/2 l Lemon Water, Hibiscus Tea or Melissa Tea |
+| 
+| Day 1 
+| Day 2 
+| Day 3 
+
+| after wakeup 
+| 1/2 l Lemon Water 
+| 1/2 l Lemon Water 
+| 1/2 l Lemon Water 
+
+| Morning 
+| eat what you like 
+| eat what you like + 1 Apple 
+| eat what you want + 2 Apple 
+
+| Lunch 
+| eat what you like 
+| eat what you like 
+| eat what you like 
+
+| Afternoon 
+| 2 Apple + 1 - 4 Dates 
+| 2 Apple + 1 - 4 Dates 
+| 2 Apple + 1 - 4 Dates 
+
+| Diner 
+| eat what you like 
+| eat what you like 
+| eat what you like 
+
+| Evening 
+| Apple (if you want), 1/2 l Lemon Water, Hibiscus Tea or Melisse Tea 
+| Apple (if you want), 1/2 l Lemon Water, Hibiscus Tea or Melissa Tea 
+| Apple (if you want), 1/2 l Lemon Water, Hibiscus Tea or Melissa Tea 
+
+|===
+
 
 == The 6
 
