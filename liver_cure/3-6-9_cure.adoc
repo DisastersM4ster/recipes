@@ -172,6 +172,7 @@ You also can use frzen berries.
 == Healthy Salad
 
 Var A:
+
 * 3 cups Tomatos, cut in small pieces
 * 1 Cucumber, sliced
 * 1 Cup Sellery sticks, chopped
@@ -182,6 +183,7 @@ Var A:
 
 
 Var B:
+
 * 1 Cup finely chopped red cabbage
 * 1 Cup Caottes, squared or in stripes
 * 1 Cup finely chopped Asparagus
@@ -191,6 +193,7 @@ Var B:
 * 8 Cups green Leafs (Spinach, Ruccola, green salad)
 
 Orange Vinaigrette (optional)
+
 * 240 ml Orange juice
 * 1 
 * 1 Tablespoon honey
