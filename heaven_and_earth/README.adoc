@@ -7,6 +7,7 @@ contains Apples (Heaven) and Potatos (Earth).
 
 * Potatos
 * Apples (can be sour)
+* Apples and Potatos weighted 1:1
 * 1 medium Onion, squared (or 2 small)
 * 1 or 2 garlic, finely chopped (optional)
 * Oil or Bacon squares
